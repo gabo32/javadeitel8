@@ -22,6 +22,7 @@ public class OperadoresLogicos {
    * metodo principal
    * @param args
    */
+  @SuppressWarnings("unused")
   public static void main(String[] args) {
 
     // tabla de verdad para &&

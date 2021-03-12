@@ -34,6 +34,7 @@ public class CalificacionesLetra {
     int dCuenta = 0;
     int fCuenta = 0;
 
+    @SuppressWarnings("resource")
     Scanner entrada = new Scanner(System.in);
 
     System.out.printf("%s%n%s%n  %s%n  %s%n",
