@@ -29,3 +29,4 @@ en-dictionary.txt
 *.lock
 .metadata
 .classpath
+*/bin
